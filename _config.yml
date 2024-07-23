@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Prof Hu's Photo.png"
+  avatar           : "Prof Hu's Photo.png"
+  name             : "Guobiao HU"
   pronouns         : # example: "she/her"  
   bio              : "Principal Investigator"
   location         : "Nan Sha, Guangzhou"
