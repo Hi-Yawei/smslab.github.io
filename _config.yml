@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Guobiao HU"
+  name             : "Prof Hu's Photo.png"
   pronouns         : # example: "she/her"  
   bio              : "Principal Investigator"
   location         : "Nan Sha, Guangzhou"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Peul9lcAAAAJ&hl=zh-CN&oi=ao"
   impactstory      : # URL
-  orcid            :  "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Guobiao-Hu-2"
